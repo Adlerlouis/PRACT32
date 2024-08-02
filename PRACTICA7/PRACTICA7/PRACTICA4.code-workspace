@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../PRACTICA4/PRACTICA4"
+		},
+		{
+			"name": "PRACTICA5",
+			"path": "../../PRACTICA5/PRACTICA5"
+		},
+		{
+			"name": "PRACTICA6",
+			"path": "../../PRACTICA6/PRACTICA6"
+		},
+		{
+			"name": "PRACTICA7",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"timers.h": "c"
+		}
+	}
+}

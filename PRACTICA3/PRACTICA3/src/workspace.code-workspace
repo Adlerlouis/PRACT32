@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "PRACTICA3",
+			"path": ".."
+		},
+		{
+			"name": "PRACTICA4",
+			"path": "../../../PRACTICA4/PRACTICA4"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"task.h": "c"
+		}
+	}
+}
